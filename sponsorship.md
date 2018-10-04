@@ -2,12 +2,12 @@
 layout: home
 ---
 
-# Sponsoring the W3C Workshop on Manga, Comics, and Fixed Layout Publications
+# Sponsoring the W3C Workshop on Web Archival
 
 (Some general text on the Workshop T.B.D.)
 {: .todo}
 
-For more details on the workshop, see the <span class="todo">[W3C Workshop on @@@@](index.html)</span>.
+For more details on the workshop, see the <span class="todo">[W3C Workshop on Web Archival](index.html)</span>.
 
 ## Why Sponsor This Workshop?
 
@@ -15,7 +15,7 @@ The cost to hold a workshop includes costs for venue (including setup and custod
 
 Most of the planning, coordination, agenda building, and writing outcome reports are done for no cost by W3C staff or volunteers. But without sponsorships, W3C cannot hold workshops.
 
-If you see value in discussing further improvement on publishing Mangas and Cartoons via digital publications, and believe it will help your business, sponsoring is the best way to ensure that this conversation happens, and that you are seen as a leader and a forward-looking enabler of the technical evolution of the Web.
+If you see value in discussing further improvement on Web Archival in general, and believe it will help your business, sponsoring is the best way to ensure that this conversation happens, and that you are seen as a leader and a forward-looking enabler of the technical evolution of the Web.
 
 The more sponsorships we get, the better the amenities will be, including options like recording and transcription for spreading and preserving what was discussed, T-shirts for attendees, and better meals.
 
@@ -51,20 +51,20 @@ The deadline for becoming a sponsor are:
 _The sponsorship values are in Yens, they should be in $ or €, depending on the location_
 {: .todo}
 
-### Platinum Sponsorship: ¥750,000 (¥1,000,000 for non-Members)
+### Platinum Sponsorship: €5,000 (€6,500 for non-Members)
 {: #platinum}
 
 * Platinum sponsors are listed prominently as major sponsors of the workshop.
 * The sponsor name and logo are featured on all on-site signage and printed materials.
 
-### Gold Sponsorship: ¥525,000 (¥700,000 for non-Members)
+### Gold Sponsorship: €3,000 (€4,000 for non-Members)
 {: #gold}
 
 * Gold sponsors are listed as sponsors of the workshop.
 * The sponsor name and logo are included on all on-site signage and printed materials.
 
-### Silver Sponsorship: ¥300,000 (¥400,000 for non-Members)
-{: #gold}
+### Silver Sponsorship: €1,000 (€1,500 for non-Members)
+{: #silver}
 
 * Silver sponsors are listed as additional sponsors of the workshop.
 * The sponsor name is listed on all on-site signage and printed materials.

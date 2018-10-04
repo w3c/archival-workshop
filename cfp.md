@@ -10,26 +10,25 @@ layout: cfp
 
 ## What is the purpose of this workshop?
 
-<span class="todo">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span>
-
+This workshop brings together the people who work on archiving and preserving information from the Web or created with Web technologies. See [the workshop home page](./index.html) for further details.
 
 ## How can I attend?
 
 Attendance is free for all invited participants and is open to the public, whether or not W3C members.
 
-If you wish to express interest in attending, please fill out the registration form (<span class="todo">WBS to be done</span>. We want to fill the room with people with practical experience of both Web and VR technologies.
+If you wish to express interest in attending, please fill out the registration form (<span class="todo">WBS to be done</span>). We want to fill the room with people with practical experience of both Web archival technologies and problems.
 
-Because the venue can accommodate unfortunately only 100 attendees, you must receive an acceptance email in order to attend. Also, be sure to keep an eye on [these important dates](#dates).
+Because the venue can accommodate unfortunately only <span class="todo">100</span> attendees, you must receive an acceptance email in order to attend. Also, be sure to keep an eye on [these important dates](#dates).
 
 As an alternative to the registration form, you are encouraged to submit a presentation topic in the form of a [position statement](#position-statements).
 
 Our aim is to get a diversity of attendees from a variety of industries and communities, including:
 
-> <span class="todo">A list of communities should appear here, e.g.,</span>
-> * Manga/cartoon content producers
-> * Reading systems
-> * Authoring tool providers
-> * <span class="todo">etc.</span>
+* Digital archivists, librarians, and records managers who have been pushing the boundaries of web-based technologies
+* Community archivists and citizen journalists who have experience with the limits and potential of documenting and preserving on the web
+* Creators of archival standards, including such concepts as preservation, discovery, rights management, metadata, etc.
+* Creators of web specifications, especially those which might be used by document creators or by those preserving online content, including such things as HTML, metadata schemas, documenting rights management, understanding trusted authorities, etc.
+* Other organizations involved in informal and formal preservation of information on the web.
 
 
 This workshop, as other W3C meetings, operates under its [Code of Ethics and Professional Conduct](https://www.w3.org/Consortium/cepc/).
@@ -37,15 +36,14 @@ This workshop, as other W3C meetings, operates under its [Code of Ethics and Pro
 ## Which topics will be covered?
 {: #topics}
 
-<span class="todo">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span>
+See list of topics on the [home page of the Workshop](./index.html#topics).
 
-Suggestions for further workshop topics? Submit a [pull request on GitHub](https://github.com/w3c/tokyo18-workshop) or email Ivan Herman <ivan@w3.org>.
-
+Suggestions for further workshop topics? Submit a [pull request on GitHub](https://github.com/w3c/archival-workshop) or email Ivan Herman <ivan@w3.org>.
 
 ## How can I suggest a presentation?
 {: #position-statements}
 
-This is a workshop, not a conference, and any presentations will be short, with topics suggested by submissions and decided by the chairs and program committee. Our goal is to actively discuss topics, not to watch presentations.
+This is a Workshop, not a conference, and any presentations will be short, with topics suggested by submissions and decided by the chairs and program committee. Our goal is to actively discuss topics, not to watch presentations.
 
 In order to best facilitate informed discussion, we encourage attendees to read the accepted topics prior to attending the workshop.
 
@@ -75,8 +73,9 @@ Venue details
 ### Chairs
 {: .no_toc}
 
-* T.B.D.
-{: .todo}
+* Tzviya Siegman (Wiley)
+* Deborah Kaplan (Suberic Network)
+* Ivan Herman (W3C)
 
 ### Committee Members
 {: .no_toc}
