@@ -74,7 +74,7 @@ Venue details
 {: .no_toc}
 
 * Tzviya Siegman (Wiley)
-* Deborah Kaplan (Suberic Network)
+* Deborah Kaplan (Suberic Networks)
 * Ivan Herman (W3C)
 
 ### Committee Members
