@@ -80,6 +80,7 @@ Venue details
 ### Committee Members
 {: .no_toc}
 
+* Ramesh C. Gaur, Indira Gandhi National Centre for Art and Culture
 * T.B.D.
 {: .todo}
 
