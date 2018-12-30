@@ -80,7 +80,8 @@ Venue details
 ### Committee Members
 {: .no_toc}
 
-* Ramesh C. Gaur, Indira Gandhi National Centre for Art and Culture
+* Emmanuelle Bermès (French National Library, France)
+* Ramesh C. Gaur (Indira Gandhi National Centre for Art and Culture, India)
 * T.B.D.
 {: .todo}
 
